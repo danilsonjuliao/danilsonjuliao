@@ -2,7 +2,7 @@
 
 **`Desenvolvedor `**
 
-Meu nome é Danilson Julião Mateus, tenho 22 anos de idade, sou Moçambicano, residente em Maputo atualmente. Sou estudante, estou cursando Matemática Pura e Aplicada.na Universidade Eduardo Mondlane (UEM). Desenvolvi o gosto por Tecnologia desde cedo.
+Meu nome é Danilson Julião Mateus, tenho 22 anos de idade, sou Moçambicano, residente em Maputo actualmente. Sou estudante, estou cursando Matemática Pura e Aplicada, na Universidade Eduardo Mondlane (UEM). Desenvolvi o gosto por Tecnologia desde cedo.
 
 <p align="left">
     <a href="https://github.com/danilsonjuliao?tab=repositories&sort=stargazers">
